@@ -1,8 +1,3 @@
-# Ecommerce-Data-Analysis
-Thanks for sharing your notebook! Based on the filename `Ecommerce.ipynb` and your previous work (EDA, monthly sales, category analysis, KPIs), here's a complete and professional **README.md** for your GitHub project:
-
----
-
 ## 🛍️ E-Commerce Sales Analysis using Python
 
 ### 📌 Overview
