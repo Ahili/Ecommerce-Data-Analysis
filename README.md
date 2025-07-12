@@ -14,10 +14,9 @@ This project analyzes real-world e-commerce transaction data to extract actionab
 ### 📊 Objectives
 
 * Clean and preprocess raw transactional data
-* Explore patterns in sales, orders, and profitability
-* Analyze sales performance across **categories**, **products**, and **regions**
+* Explore patterns in sales, and orders
+* Analyze sales performance across **categories**, **products**
 * Generate key business KPIs
-* Identify loss-making products and discount impacts
 * Visualize customer behavior and sales trends
 
 ---
@@ -26,9 +25,8 @@ This project analyzes real-world e-commerce transaction data to extract actionab
 
 * 💰 **Total Sales**: \$2,261,536.78
 * 🧾 **Average Order Value**: \$459.48
-* 📦 **Top-selling products** and **loss-making items** identified
+* 📦 **Top-selling products** identified
 * 📉 Discounts >20% often lead to negative profit margins
-* 🌎 Sales are highest in regions like **California**, **New York**, and **Texas**
 * 🧍‍♀️ High-value customers form a small portion but drive majority of revenue
 
 ---
@@ -48,7 +46,7 @@ This project analyzes real-world e-commerce transaction data to extract actionab
 
 * Python 3.x
 * `pandas`, `numpy`
-* `matplotlib`, `seaborn`, `plotly`
+*  `plotly`
 * `datetime`
 * Jupyter Notebook
 
@@ -71,42 +69,9 @@ This project analyzes real-world e-commerce transaction data to extract actionab
 #### ✅ KPI Metrics
 
 * Total revenue, average order value, total orders, customer count
-* Loss-making products, profit margin trends
-
+* Top-selling products, profit margin trends
+  
 ---
 
-### 📌 Future Work (Optional Extensions)
 
-* Customer segmentation using RFM
-* Predictive modeling (e.g., sales forecasting using ARIMA or Prophet)
-* Customer churn prediction
-* Power BI dashboard integration
 
----
-
-### 🧑‍💻 How to Run
-
-1. Clone the repository
-2. Install required libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn plotly
-   ```
-3. Open `Ecommerce.ipynb` in Jupyter Notebook
-4. Run all cells to view the complete analysis
-
----
-
-### 🤝 Contributing
-
-Feel free to fork this repo, suggest improvements, or use it as a base for your own e-commerce analysis projects.
-
----
-
-### 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Would you like me to generate this as an actual `README.md` file you can paste directly or commit to GitHub?
