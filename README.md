@@ -33,7 +33,6 @@ This project analyzes real-world e-commerce transaction data to extract actionab
 | `Ecommerce.ipynb`                   | Jupyter notebook containing the full analysis |
 | `train.csv`                         | Cleaned dataset used for analysis             |
 | `README.md`                         | Project documentation                         |
-| *(optional)* `state_sales_map.html` | Interactive sales choropleth map              |
 
 ---
 
